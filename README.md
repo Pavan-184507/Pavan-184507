@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Pavan Abhishek 👋</h1>
-  <p><strong>C++ Developer | Linux & Systems Enthusiast | IoT & AI</strong></p>
-  <p><em>Building practical engineering projects at the intersection of systems, hardware, and software.</em></p>
+  <p><strong>AI • Robotics • Space Research • Systems Engineering</strong></p>
+  <p><em>Exploring intelligent systems across artificial intelligence, embedded robotics, remote sensing, and space technology.</em></p>
 
   <p>
-    <a href="https://pavan-184507.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
-    <a href="https://github.com/Pavan-184507"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+    <a href="https://pavan-184507.github.io"><img src="https://img.shields.io/badge/Portfolio-pavan--184507.github.io-blue?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
+    <a href="https://github.com/Pavan-184507"><img src="https://img.shields.io/badge/GitHub-Pavan--184507-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -13,80 +13,119 @@
 
 ### 👨‍💻 About Me
 
-I am a software and systems developer passionate about building practical engineering solutions that combine low-level systems, IoT hardware, and intelligent data systems.
+My work and research are centered on **learning, building, and researching intelligent systems** that connect software, hardware, language technology, and space-oriented applications.
 
-- 🔭 **Focus Areas**: Systems programming, IoT & embedded applications, and algorithmic problem-solving.
-- ⚙️ **What I Build**: From OS-level CPU schedulers and telemetry IoT systems to data analytics and FinTech platforms.
-- 🌱 **Currently Exploring**: Advanced C++, Linux internals, and embedded AI/ML.
-- 💬 **Ask Me About**: C/C++, Linux environment, Arduino/IoT sensor integration, and systems design.
+- 🔭 **Core Focus**: Artificial Intelligence, Autonomous Robotics, Space Systems, and Embedded Systems.
+- ⚙️ **Engineering Philosophy**: Building practical engineering solutions from low-level systems and sensor hardware to intelligent algorithms.
+- 🌱 **Currently Exploring**: ROS 2, Orbital Mechanics, GIS/Remote Sensing, and Transformer-based NLP for Indian languages.
+- 💬 **Ask Me About**: C/C++, Python, Linux, Embedded IoT, ROS 2, and Satellite data pipelines.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Core Architecture & Tech Stack
 
 <table>
   <tr>
-    <td width="30%"><strong>Languages</strong></td>
+    <td width="28%"><strong>💻 Programming & Systems</strong></td>
     <td>
-      <code>C++</code> <code>C</code> <code>Python</code> <code>R</code> <code>Bash</code> <code>SQL</code>
+      <code>Python</code> <code>C</code> <code>C++</code> <code>Linux</code> <code>Bash</code> <code>Git & GitHub</code> <code>DSA</code> <code>Embedded C</code>
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>Systems & Tools</strong></td>
+    <td width="28%"><strong>🧠 AI & Machine Learning</strong></td>
     <td>
-      <code>Linux</code> <code>Git & GitHub</code> <code>Docker</code> <code>Networking</code> <code>GDB</code>
+      <code>Machine Learning</code> <code>Computer Vision</code> <code>NLP & Transformers</code> <code>Neural Networks</code> <code>Edge AI</code>
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>IoT & Embedded</strong></td>
+    <td width="28%"><strong>🤖 Robotics & Embedded</strong></td>
     <td>
-      <code>Arduino</code> <code>ESP32</code> <code>MQTT</code> <code>Sensor Telemetry</code> <code>I2C / SPI</code>
+      <code>ROS 2</code> <code>Gazebo</code> <code>ESP32</code> <code>Arduino</code> <code>IoT & MQTT</code> <code>Sensor Fusion</code> <code>SLAM</code>
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>AI & Data</strong></td>
+    <td width="28%"><strong>🛰️ Space & Earth Observation</strong></td>
     <td>
-      <code>Machine Learning</code> <code>Data Analysis</code> <code>Signal Processing</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>Frameworks & Web</strong></td>
-    <td>
-      <code>FastAPI</code> <code>Flutter</code> <code>HTML5 / CSS3</code>
+      <code>Remote Sensing</code> <code>GIS Analysis</code> <code>Orbital Mechanics</code> <code>Satellite Imagery</code> <code>CubeSat Systems</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Engineering Workbench
 
+#### 🔨 Active Builds & Repositories
 <table>
   <tr>
     <td width="50%">
-      <h3>🏛️ <a href="https://github.com/Pavan-184507/Arthavyaaa">Arthavyaa</a></h3>
-      <p>A FinTech application designed for transaction aggregation, financial management, and analytics.</p>
+      <h3>🏛️ <a href="https://github.com/Pavan-184507/Arthavyaaa">Arthavyaa — FinTech Intelligence</a></h3>
+      <p>A personal-finance platform concept for organizing financial data, transaction aggregation, and economic analytics.</p>
       <p><code>FinTech</code> <code>Analytics</code> <code>Software Architecture</code></p>
     </td>
     <td width="50%">
-      <h3>⚙️ <a href="https://github.com/Pavan-184507/fifo-cpu-scheduler">FIFO CPU Scheduler</a></h3>
-      <p>An operating system simulation exploring process scheduling concepts, turnaround metrics, and CPU scheduling mechanics.</p>
-      <p><code>C / C++</code> <code>Operating Systems</code> <code>Algorithms</code></p>
+      <h3>📡 <a href="https://github.com/Pavan-184507/AeroSense-IoT1">AeroSense-IoT</a></h3>
+      <p>An IoT-oriented sensing and telemetry platform with ESP32 firmware, real-time server, and live monitoring dashboard.</p>
+      <p><code>IoT</code> <code>ESP32</code> <code>Telemetry</code> <code>Sensors</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📡 <a href="https://github.com/Pavan-184507/AeroSense-IoT1">AeroSense-IoT</a></h3>
-      <p>An IoT-oriented sensing and telemetry platform for environmental data collection and monitoring.</p>
-      <p><code>IoT</code> <code>Sensors</code> <code>Embedded Systems</code></p>
+      <h3>⚙️ <a href="https://github.com/Pavan-184507/fifo-cpu-scheduler">FIFO CPU Scheduler</a></h3>
+      <p>Operating system simulation exploring process scheduling mechanics, turnaround metrics, and CPU utilization.</p>
+      <p><code>C / C++</code> <code>Operating Systems</code> <code>Algorithms</code></p>
     </td>
     <td width="50%">
       <h3>🌐 <a href="https://github.com/Pavan-184507/Pavan-184507.github.io">Developer Portfolio</a></h3>
-      <p>Personal developer portfolio and project showcase hosted via GitHub Pages.</p>
-      <p><code>GitHub Pages</code> <code>Web</code> <code>Portfolio</code></p>
+      <p>Personal multi-lingual developer portfolio and research showcase hosted on GitHub Pages.</p>
+      <p><code>GitHub Pages</code> <code>JavaScript</code> <code>Portfolio</code></p>
     </td>
   </tr>
 </table>
+
+#### 🔬 Planned & Research Roadmap
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Autonomous Planetary Rover</h3>
+      <p>Robotics research for autonomous navigation, perception, mapping (SLAM), and terrain exploration using <strong>ROS 2 & Gazebo</strong>.</p>
+      <p><code>Status: In Progress / Planned</code> <code>Robotics</code> <code>ROS 2</code></p>
+    </td>
+    <td width="50%">
+      <h3>🛰️ Satellite Intelligence System</h3>
+      <p>Satellite tracking, orbital trajectory visualization, ground tracks, and pass-prediction visibility analysis.</p>
+      <p><code>Status: Planned</code> <code>Orbital Mechanics</code> <code>Space Systems</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌍 AI Earth Observation</h3>
+      <p>Computer-vision pipeline for analyzing satellite imagery to study land-cover classification and environmental changes.</p>
+      <p><code>Status: Planned</code> <code>Remote Sensing</code> <code>GIS</code> <code>Computer Vision</code></p>
+    </td>
+    <td width="50%">
+      <h3>🚀 CubeSat Mission Simulator</h3>
+      <p>Educational mission simulator covering orbit propagation, telemetry, power systems, sensors, and ground station communication.</p>
+      <p><code>Status: Planned</code> <code>Space Systems</code> <code>Simulation</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>🗣️ Indic Language NLP & Malayalam AI Translator</h3>
+      <p>Experimental machine translation and language technology pipeline exploring Transformer architectures for Indian languages.</p>
+      <p><code>Status: Planned / Experimental</code> <code>NLP</code> <code>Transformers</code> <code>Indic AI</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌌 Research Directions
+
+- **🪐 Space Systems**: Satellites • CubeSats • Orbital Mechanics • Space Robotics
+- **🤖 Intelligent Robotics**: Autonomy • SLAM • Computer Vision • Sensor Fusion
+- **🛰️ Earth Observation**: Remote Sensing • GIS • Satellite Imagery Analysis
+- **📝 Language Technology**: Indian Languages • NLP • OCR • Machine Translation
 
 ---
 
@@ -100,5 +139,7 @@ I am a software and systems developer passionate about building practical engine
 ---
 
 <div align="center">
-  <sub>Designed & built with care by <a href="https://github.com/Pavan-184507">Pavan Abhishek</a></sub>
+  <p>📬 <em>Open to learning and collaboration around AI, robotics, language technology, embedded systems, and space research.</em></p>
+  <sub>Designed & maintained by <a href="https://pavan-184507.github.io">Pavan Abhishek</a></sub>
 </div>
+
