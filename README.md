@@ -48,7 +48,16 @@ My work and research are centered on **learning, building, and researching intel
     <td>
       <code>Remote Sensing</code> <code>GIS Analysis</code> <code>Orbital Mechanics</code> <code>Satellite Imagery</code> <code>CubeSat Systems</code>
     </td>
+  </tr> 
+  
+  <tr>
+    <td width="28%"><strong>📜 History & Language Research</strong></td>
+    <td>
+      <code>Historical Research</code> <code>Indian History</code> <code>Linguistics</code> <code>Language Evolution</code> <code>Indian Languages</code> <code>Dravidian Languages</code> <code>Computational Linguistics</code> <code>Digital Humanities</code>
+    </td>
   </tr>
+
+
 </table>
 
 ---
