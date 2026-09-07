@@ -19,7 +19,7 @@ My work and research are centered on **learning, building, and researching intel
 - ⚙️ **Engineering Philosophy**: Building practical engineering solutions from low-level systems and sensor hardware to intelligent algorithms.
 - 🌱 **Currently Exploring**: ROS 2, Orbital Mechanics, GIS/Remote Sensing, and Transformer-based NLP for Indian languages.
 - 💬 **Ask Me About**: C/C++, Python, Linux, Embedded IoT, ROS 2, and Satellite data pipelines.
-
+- 📚 **Research Interests**: History, historical civilizations, linguistics, language evolution, Indian languages, and the intersection of AI with historical and linguistic research.
 ---
 
 ### 🛠️ Core Architecture & Tech Stack
