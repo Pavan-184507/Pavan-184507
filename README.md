@@ -152,3 +152,16 @@ My work and research are centered on **learning, building, and researching intel
   <sub>Designed & maintained by <a href="https://pavan-184507.github.io">Pavan Abhishek</a></sub>
 </div>
 
+<div align="center">
+
+  <h3>🌍 Communication Languages</h3>
+
+  <img src="https://img.shields.io/badge/Telugu-Native-2E8B57?style=for-the-badge" alt="Telugu — Native"/>
+  <img src="https://img.shields.io/badge/English-Communication-3776AB?style=for-the-badge" alt="English — Communication"/>
+  <img src="https://img.shields.io/badge/Hindi-Fluent-FF9933?style=for-the-badge" alt="Hindi — Fluent"/>
+  <img src="https://img.shields.io/badge/Malayalam-Basic_Conversation-6A5ACD?style=for-the-badge" alt="Malayalam — Basic Conversation"/>
+  <img src="https://img.shields.io/badge/German-Learning-FFC107?style=for-the-badge" alt="German — Learning"/>
+  <img src="https://img.shields.io/badge/Japanese-Learning-BC002D?style=for-the-badge" alt="Japanese — Learning"/>
+  <img src="https://img.shields.io/badge/Spanish-Beginner-EF4135?style=for-the-badge" alt="Spanish — Beginner"/>
+
+</div>
