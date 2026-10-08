@@ -162,6 +162,7 @@ My work and research are centered on **learning, building, and researching intel
   <img src="https://img.shields.io/badge/Malayalam-Basic_Conversation-6A5ACD?style=for-the-badge" alt="Malayalam — Basic Conversation"/>
   <img src="https://img.shields.io/badge/German-Learning-FFC107?style=for-the-badge" alt="German — Learning"/>
   <img src="https://img.shields.io/badge/Japanese-Learning-BC002D?style=for-the-badge" alt="Japanese — Learning"/>
-  <img src="https://img.shields.io/badge/Spanish-Beginner-EF4135?style=for-the-badge" alt="Spanish — Beginner"/>
+  <img src="https://img.shields.io/badge/Spanish-Learning-EF4135?style=for-the-badge" alt="Spanish — Learning"/>
+  <img src="https://img.shields.io/badge/French-Learning-0055A4?style=for-the-badge" alt="French — Learning"/>
 
 </div>
