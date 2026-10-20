@@ -28,7 +28,7 @@ My work and research are centered on **learning, building, and researching intel
   <tr>
     <td width="28%"><strong>💻 Programming & Systems</strong></td>
     <td>
-      <code>Python</code> <code>C</code> <code>C++</code> <code>Linux</code> <code>Bash</code> <code>Git & GitHub</code> <code>DSA</code> <code>Embedded C</code>
+      <code>Python</code> <code>C</code> <code>C++</code>  <code>R</code> <code>Linux</code> <code>Bash</code> <code>Git & GitHub</code> <code>DSA</code> <code>Embedded C</code>
     </td>
   </tr>
   <tr>
